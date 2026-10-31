@@ -1,6 +1,6 @@
 ### 1. Environment Setup
 ```bash
-git clone https://github.com/your-username/CLIPVAE.git
+git clone https://github.com/zmyang1536/CLIPVAE.git
 cd CLIPVAE
 
 conda create -n clipvae python=3.9
