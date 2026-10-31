@@ -18,7 +18,7 @@ This project supports standard 10x Visium spatial transcriptomics data format. Y
 
 We provide a one-click preprocessing script:
 ```bash
-python data/preprocess.py \
+python data/preproces.py \
     --adata_path data/raw/your_data.h5ad \
     --image_path data/raw/tissue_hires_image.png \
     --output_dir data/processed \
